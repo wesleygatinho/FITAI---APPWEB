@@ -1,0 +1,7 @@
+{
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "name": "FITAI",
+  "description": "FITAI - APPWEB"
+}
